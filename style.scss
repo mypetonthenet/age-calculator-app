@@ -4,21 +4,22 @@
 
 // Variables
 
-$White: #ffffff; //
-$Off-black: #141414; //
-$Purple: #10dfa8;
+$bg-color: #7099eb36;
+$Poppins: 'Poppins', sans-serif;
+
+$Purple: #854dff;
 $Light-red: #ff5757;
 $White: #ffffff;
 $Off-white: #f0f0f0;
-$bg-color: #7099eb36;
 $Light-grey: #dbdbdb;
 $Smokey-grey: #716f6f;
 $Off-black: #141414;
-$Poppins: 'Poppins', sans-serif;
+
+
 
 
 body {
-    background-color: $bg-color;
+    background-color: $Off-white;
     font-family: $Poppins;
     .container {
         background-color: $White;
